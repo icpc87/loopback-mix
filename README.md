@@ -2,9 +2,9 @@
 
 macOS 用のオーディオルーターです。アプリの音もマイクも、行と列の交点をクリックするだけで、好きな仮想オーディオデバイス（ライン）へ送れます。Zoom や OBS、録音アプリでは「Line 1」などを入力として選ぶだけです。
 
-**ダウンロード・使い方: https://loopbackmix.ic2.jp/**
+**ダウンロード:** [最新版の DMG（Releases）](../../releases/latest) ・ 使い方は https://loopbackmix.ic2.jp/
 
-このリポジトリには、リリースノート（[Releases](../../releases)・[CHANGELOG.md](CHANGELOG.md)）だけを載せています。
+このリポジトリには、リリースノート（[Releases](../../releases)・[CHANGELOG.md](CHANGELOG.md)）と配布用の DMG だけを載せています（ソースコードは含みません）。DMG は Developer ID で署名され、Apple の公証を受けています。
 
 ## 主な機能
 
